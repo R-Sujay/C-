@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     cout << "Hello World";
-        cout << "\n\n\nPress any key to close this";
+        cout << "\n\n\nPress any key to close";
     getch();
     return 0 ;
 }
