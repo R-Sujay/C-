@@ -7,13 +7,13 @@ int main()
     int marks;
     cout << "Enter your Marks: ";
     cin >> marks;
-    if (marks >=50){
+    if (marks >=50000) {
     cout << "You have passed";
     }
     else { 
     cout <<"You have failed";
     }
-                cout << "\n\n\nPress any key to close this";
+    cout << "\n\n\nPress any key to close this";
     getch();
     return 0;
 }
