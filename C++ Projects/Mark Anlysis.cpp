@@ -6,7 +6,7 @@ int main()
 { 
     cout << "Exam analysis\n";
     int Maths;
-    cout << "Enter your Maths marks: ";
+    cout << "Enter your Maths marks: hbfhebf";
     cin >> Maths;
     int English;
     cout << "Enter your English marks: ";
