@@ -54,27 +54,6 @@ int main()
         break;
     }
 
-//     cout << "\n\nHaving a Coupon? Enter it here: ";
-//   cin >> Coupon;
-
-//  switch (Coupon) {
-//   case 59628:
-//     cout << "Coupon Applied\n\n";
-//         cout << "Your Remaining balance is " << "$"<< price2 - Coupon1;
-//     break;  
-//     case 91728:
-//     cout << "Coupon Applied\n\n";
-//         cout << "Your Remaining balance is " << "$"<< price2 - Coupon2;
-//     break; 
-//     case 85637:
-//     cout << "Coupon Applied\n\n";
-//         cout << "Your Remaining balance is " << "$"<< price2 - Coupon3;
-//     break;
-//       default: 
-//       cout << "Invalid Coupon";
-//   break;
-//   }
-
     // 1. Enter "59628" Coupon to get $200 off
     // 2. Enter "91728" Coupon to get $100 off
     // 3. Enter "85637" Coupon to get $300 off
