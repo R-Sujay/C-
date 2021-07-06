@@ -5,7 +5,7 @@
 using namespace std;
 
 string repeat(string s, int n)
-{
+{	
 	string s1 = s;
 
 	for (int i=1; i<n;i++)
@@ -17,7 +17,7 @@ int main()
 {
 	string s;
 	int n;
-    cout << "Enter Your word(Enter One Word): ";
+    cout << "Enter Your word (Enter One Word): ";
     cin >> s;
     cout << "Enter Number of Repeatation: ";
     cin >> n;
