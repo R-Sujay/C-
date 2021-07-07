@@ -13,7 +13,7 @@ int main()
     cout << number << "\n";
     number++;
   }
-      cout << "\n\n\nPress any key to close";
+        cout << "\n\n\nPress any key to close";
     getch();
     return 0 ;
 }
