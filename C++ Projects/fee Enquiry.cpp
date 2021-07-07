@@ -3,7 +3,7 @@
 using namespace std;
 
 int main()
-{
+{   
     int grade;
     int tutition1;
     int book1;    
@@ -57,21 +57,21 @@ int main()
         cout << "\nFees for 1st Grade";
     cout << "\n==================\n";
     cout << "Tutition Fees: Rs." << tutition1;
-    cout << "\n    Book Fees: Rs. " << book1;
+    cout << "\n    Book Fees: Rs." << book1;
     cout << "\n   Total Fees: " << tutition1+book1;
         break;   
         case 2:
         cout << "\nFees for 2nd Grade";
     cout << "\n==================\n";
     cout << "Tutition Fees: Rs." << tutition2;
-    cout << "\n    Book Fees: Rs. " << book2;
+    cout << "\n    Book Fees: Rs." << book2;
     cout << "\n   Total Fees: " << tutition2+book2;
         break;        
         case 3:
         cout << "\nFees for 3rd Grade";
     cout << "\n==================\n";
     cout << "Tutition Fees: Rs." << tutition3;
-    cout << "\n    Book Fees: Rs. " << book3;
+    cout << "\n    Book Fees: Rs." << book3;
     cout << "\n   Total Fees: " << tutition3+book3;
 
         break;        
@@ -79,7 +79,7 @@ int main()
         cout << "\nFees for 4th Grade";
     cout << "\n==================\n";
     cout << "Tutition Fees: Rs." << tutition4;
-    cout << "\n    Book Fees: Rs. " << book4;
+    cout << "\n    Book Fees: Rs." << book4;
     cout << "\n   Total Fees: " << tutition4+book4;
 
         break;        
@@ -87,7 +87,7 @@ int main()
         cout << "\nFees for 5th Grade";
     cout << "\n==================\n";
     cout << "Tutition Fees: Rs." << tutition5;
-    cout << "\n    Book Fees: Rs. " << book5;
+    cout << "\n    Book Fees: Rs." << book5;
     cout << "\n   Total Fees: " << tutition5+book5;
 
         break;
@@ -95,7 +95,7 @@ int main()
         cout << "\nFees for 6th Grade";
     cout << "\n==================\n";
     cout << "Tutition Fees: Rs." << tutition6;
-    cout << "\n    Book Fees: Rs. " << book6;
+    cout << "\n    Book Fees: Rs." << book6;
     cout << "\n   Total Fees: " << tutition6+book6;
 
         break;                
@@ -103,7 +103,7 @@ int main()
         cout << "\nFees for 7th Grade";
     cout << "\n==================\n";
     cout << "Tutition Fees: Rs." << tutition7;
-    cout << "\n    Book Fees: Rs. " << book7;
+    cout << "\n    Book Fees: Rs." << book7;
     cout << "\n   Total Fees: " << tutition7+book7;
 
         break;        
@@ -111,7 +111,7 @@ int main()
         cout << "\nFees for 8th Grade";
     cout << "\n==================\n";
     cout << "Tutition Fees: Rs." << tutition8;
-    cout << "\n    Book Fees: Rs. " << book8;
+    cout << "\n    Book Fees: Rs." << book8;
     cout << "\n   Total Fees: " << tutition8+book8;
 
         break;        
@@ -119,7 +119,7 @@ int main()
         cout << "\nFees for 9th Grade";
     cout << "\n==================\n";
     cout << "Tutition Fees: Rs." << tutition9;
-    cout << "\n    Book Fees: Rs. " << book9;
+    cout << "\n    Book Fees: Rs." << book9;
     cout << "\n   Total Fees: " << tutition9+book9;
 
         break;
@@ -127,7 +127,7 @@ int main()
         cout << "\nFees for 10th Grade";
     cout << "\n==================\n";
     cout << "Tutition Fees: Rs." << tutition10;
-    cout << "\n    Book Fees: Rs. " << book10;
+    cout << "\n    Book Fees: Rs." << book10;
     cout << "\n   Total Fees: " << tutition10+book10;
 
         break;
@@ -136,7 +136,8 @@ int main()
     cout << "Invaild Choice! Please Choose a vaild choice";
         break;
     }
+         cout << "\n\nThanks for making your payment!";
         cout << "\n\n\nPress any key to close";
     getch();
-    return 0 ;
+    return 0;
 }
