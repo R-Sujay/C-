@@ -3,7 +3,7 @@
 using namespace std;
 
 int main()
-{   
+{
     int grade;
     int tutition1;
     int book1;    
