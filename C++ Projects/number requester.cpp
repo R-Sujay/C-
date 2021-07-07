@@ -15,5 +15,5 @@ int main()
   }
         cout << "\n\n\nPress any key to close";
     getch();
-    return 0 ;
+    return 0;
 }
