@@ -33,7 +33,5 @@ int main()
       cout << "Invalid Input! Please enter number between 1-7";
   break;
   }
-    cout << "\n\n\nPress any key to close this";
-    getch();
     return 0;
 }

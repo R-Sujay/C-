@@ -1,5 +1,4 @@
 #include <iostream>
-#include <conio.h>
 using namespace std;
 
 int main()
@@ -15,7 +14,5 @@ int main()
     {
         cout<<"voting is impossible";
     }
-            cout << "\n\n\nPress any key to close this";
-    getch();
     return 0;
 }

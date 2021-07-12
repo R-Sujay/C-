@@ -1,5 +1,4 @@
 #include <iostream>
-#include <conio.h>
 using namespace std;
 
 int main()
@@ -137,7 +136,5 @@ int main()
         break;
     }
         cout << "\n\nThanks for making your payment!";
-        cout << "\n\nPress any key to close";
-    getch();
     return 0;
 }

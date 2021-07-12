@@ -1,5 +1,4 @@
 #include <iostream>
-#include <conio.h>
 #include <bits/stdc++.h>
 #include <string>
 using namespace std;
@@ -23,7 +22,5 @@ int main()
     cin >> n;
 
 	cout << repeat(s,  n) << endl;;
-            cout << "\n\n\nPress any key to close";
-    getch();
 	return 0;
 }

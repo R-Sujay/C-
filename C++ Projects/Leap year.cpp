@@ -14,8 +14,6 @@ int main() {
             else{ 
                 cout << year << " is not a leap year.";
             }
-                cout << "\n\n\nPress any key to close";
-    getch();
 
     return 0;
 }

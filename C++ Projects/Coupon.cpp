@@ -1,5 +1,4 @@
 #include <iostream>
-#include <conio.h>
 using namespace std;
 
 int main()
@@ -42,7 +41,5 @@ int main()
     // 2. Enter "91728" Coupon to get $100 off
     // 3. Enter "85637" Coupon to get $300 off
 
-    cout << "\n\n\nPress any key to close this";
-    getch();
     return 0;
 }

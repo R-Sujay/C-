@@ -1,5 +1,4 @@
 #include <iostream>
-#include <conio.h>
 using namespace std;
 
 int main()
@@ -29,7 +28,5 @@ int main()
     int outof2 = outof * 6;
     int Total = Maths + English + Social + Science + Tamil + Computer;
     cout << "The total of your Exam Marks is: " << Total << "/" << outof2;
-        cout << "\n\n\nPress any key to close this";
-    getch();
     return 0;
 }
