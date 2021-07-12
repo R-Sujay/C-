@@ -58,21 +58,21 @@ int main()
     cout << "\n==================\n";
     cout << "Tutition Fees: Rs." << tutition1;
     cout << "\n    Book Fees: Rs." << book1;
-    cout << "\n   Total Fees: " << tutition1+book1;
+    cout << "\n   Total Fees: Rs." << tutition1+book1;
         break;   
         case 2:
         cout << "\nFees for 2nd Grade";
     cout << "\n==================\n";
     cout << "Tutition Fees: Rs." << tutition2;
     cout << "\n    Book Fees: Rs." << book2;
-    cout << "\n   Total Fees: " << tutition2+book2;
+    cout << "\n   Total Fees: Rs." << tutition2+book2;
         break;        
         case 3:
         cout << "\nFees for 3rd Grade";
     cout << "\n==================\n";
     cout << "Tutition Fees: Rs." << tutition3;
     cout << "\n    Book Fees: Rs." << book3;
-    cout << "\n   Total Fees: " << tutition3+book3;
+    cout << "\n   Total Fees: Rs." << tutition3+book3;
 
         break;        
         case 4:
@@ -80,7 +80,7 @@ int main()
     cout << "\n==================\n";
     cout << "Tutition Fees: Rs." << tutition4;
     cout << "\n    Book Fees: Rs." << book4;
-    cout << "\n   Total Fees: " << tutition4+book4;
+    cout << "\n   Total Fees: Rs." << tutition4+book4;
 
         break;        
         case 5:
@@ -88,7 +88,7 @@ int main()
     cout << "\n==================\n";
     cout << "Tutition Fees: Rs." << tutition5;
     cout << "\n    Book Fees: Rs." << book5;
-    cout << "\n   Total Fees: " << tutition5+book5;
+    cout << "\n   Total Fees: Rs." << tutition5+book5;
 
         break;
                 case 6:
@@ -96,7 +96,7 @@ int main()
     cout << "\n==================\n";
     cout << "Tutition Fees: Rs." << tutition6;
     cout << "\n    Book Fees: Rs." << book6;
-    cout << "\n   Total Fees: " << tutition6+book6;
+    cout << "\n   Total Fees: Rs." << tutition6+book6;
 
         break;                
         case 7:
@@ -104,7 +104,7 @@ int main()
     cout << "\n==================\n";
     cout << "Tutition Fees: Rs." << tutition7;
     cout << "\n    Book Fees: Rs." << book7;
-    cout << "\n   Total Fees: " << tutition7+book7;
+    cout << "\n   Total Fees: Rs." << tutition7+book7;
 
         break;        
         case 8:
@@ -112,7 +112,7 @@ int main()
     cout << "\n==================\n";
     cout << "Tutition Fees: Rs." << tutition8;
     cout << "\n    Book Fees: Rs." << book8;
-    cout << "\n   Total Fees: " << tutition8+book8;
+    cout << "\n   Total Fees: Rs." << tutition8+book8;
 
         break;        
         case 9:
@@ -120,7 +120,7 @@ int main()
     cout << "\n==================\n";
     cout << "Tutition Fees: Rs." << tutition9;
     cout << "\n    Book Fees: Rs." << book9;
-    cout << "\n   Total Fees: " << tutition9+book9;
+    cout << "\n   Total Fees: Rs." << tutition9+book9;
 
         break;
                 case 10:
@@ -128,7 +128,7 @@ int main()
     cout << "\n==================\n";
     cout << "Tutition Fees: Rs." << tutition10;
     cout << "\n    Book Fees: Rs." << book10;
-    cout << "\n   Total Fees: " << tutition10+book10;
+    cout << "\n   Total Fees: Rs." << tutition10+book10;
 
         break;
     
