@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     int year;
-
+    cout << "Leap Year Finder\n";
     cout << "Enter a year: ";
     cin >> year;
 
