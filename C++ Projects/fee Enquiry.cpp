@@ -122,7 +122,7 @@ int main()
     cout << "\n    Book Fees: Rs." << book9;
     cout << "\n   Total Fees: Rs." << tutition9+book9;
 
-        break;
+        break
                 case 10:
         cout << "\nFees for 10th Grade";
     cout << "\n==================\n";
