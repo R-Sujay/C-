@@ -136,7 +136,7 @@ int main()
     cout << "Invaild Choice! Please Choose a vaild choice";
         break;
     }
-         cout << "\n\nThanks for making your payment!";
+        cout << "\n\nThanks for making your payment!";
         cout << "\n\n\nPress any key to close";
     getch();
     return 0;
