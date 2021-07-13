@@ -8,10 +8,9 @@ int main()
   cout << "Number Requester!\n";
   cout << "Enter Your Number: ";
   cin >> request;
-    do{
-        cout<< number <<"";
-        number++;
-    }
-    while (number<=request);
+  while (number < request) {
+    cout << number << "\n";
+    number++;
+  }
     return 0;
 }
