@@ -10,11 +10,6 @@ int main()
         i++;
     }
     while (a<=10);
-        do{
-        cout<< a <<"";
-        a++;
-    }
-    while (a>=10);
 
     return 0;
 }
