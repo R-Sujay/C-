@@ -12,6 +12,6 @@ int main()
         cout<< number <<"";
         number++;
     }
-    while (number<=request);
+    while (number>=request);
     return 0;
 }
