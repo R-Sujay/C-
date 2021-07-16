@@ -1,15 +1,22 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
 
-int main() {
-    int number;
-    int add;
-    cout << "Enter a Number: ";
-    cin >> number;
-    cout << "Enter adding number: ";
-    cin >> add;
-  for (int i = 0; i <= number; i = i + add) {
-    cout << i << "\n";
-  }
-  return 0;
+int main()
+{
+	// int number;
+	
+	// cout << "\nEnter Maximum limit value to print Even Numbers:  ";
+	// cin >> number;
+	
+	// cout << "\nList of Even Numbers from 1 to " << number << " are:\n"; 
+	// for(int i = 1; i <= number; i++)
+	for(int i = 1; i <= 20; i++)
+  	{
+  		if ( i % 2 == 0 )
+  		{
+  			cout << i <<" ";
+		}	
+  	}
+		
+ 	return 0;
 }
