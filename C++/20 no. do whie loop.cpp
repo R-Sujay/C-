@@ -7,7 +7,7 @@ int main()
     // cout << "\nEnter Maximum limit Value to print Even Numbers =  ";
     // cin >> number;
 while(1){
-
+    
 do{ 
 
 for(int Even=0;Even<=20;Even+=2)
