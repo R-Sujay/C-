@@ -6,7 +6,7 @@ int main()
   int Coupon;
   int price;
   int Coupon1;
-  int Coupon2;
+  int Coupon2
   int Coupon3;
 
   price = 26490;
