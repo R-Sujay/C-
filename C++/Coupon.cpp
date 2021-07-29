@@ -26,7 +26,7 @@ int main()
     break;  
     case 91728:
     cout << "Coupon Applied\n\n";
-        cout << "Your Remaining balance is " << "$"<< price - Coupon2;
+        cout << "Your Remainig balance is " << "$"<< price - Coupon2;
     break; 
     case 85637:
     cout << "Coupon Applied\n\n";
