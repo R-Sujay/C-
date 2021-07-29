@@ -16,7 +16,7 @@ int main()
 
     cout << "Product: 1000W 5.1Ch Blu-ray Home Entertainment System J5100\n";
     cout << "Price: $26490";
-    cout << "\n\nHaving a Coupon? Enter it here: ";
+    cout << "\n\nHaving a Coupon? Enter it here:  ";
   cin >> Coupon;
 
   switch (Coupon) {
