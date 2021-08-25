@@ -3,9 +3,9 @@
 using namespace std;
 int main ()
 {
-  string sentense;
-  cout<<"Enter a Sentense: ";
-  getline(cin,sentense);
-  cout<<"\nYour Sentense is: " << sentense;
+  string sentence;
+  cout<<"Enter a Sentence: ";
+  getline(cin,sentence);
+  cout<<"\nYour Sentence is: " << sentence;
   return 0;
 }
